@@ -1,0 +1,18 @@
+{
+  "name": "callbag-request",
+  "version": "1.0.0",
+  "description": "Turn a request stream into a callbag-source",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "callbag-basics": "^3.0.0",
+    "tape": "^4.9.0"
+  }
+}
